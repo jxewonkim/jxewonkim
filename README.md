@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="JAEWON KIM — Apps, AI & Research">
+  <img src="./assets/header-light.svg" width="100%" alt="JAEWON KIM — Public Health, Statistics & AI">
 </picture>
 
 <p align="center">
-  <b>아이디어를 앱으로, 반복 작업을 도구로.</b><br>
-  AI를 활용한 앱 개발과 연구 도구를 만들고 있습니다.
+  <b>Public health research, statistical analysis & useful tools.</b><br>
+  보건학 · 통계 분석 · AI 기반 연구 도구
 </p>
 
 <p align="center">
@@ -15,17 +15,43 @@
 
 <br>
 
-### 👋 About me
+### 👋 Hi, I'm Jaewon!
 
-- **macOS 앱** — 개발 과정에서 직접 겪는 불편을 해결하는 도구를 만듭니다.
-- **AI & 연구 도구** — 논문을 읽고 정리하는 과정을 돕는 앱을 실험합니다.
-- **만드는 방식** — 작은 기능부터 구현하고, 테스트와 실제 사용을 통해 다듬습니다.
+I hold a **master's degree in Public Health** and have conducted research on **cancer incidence among workers** in an **Occupational and Environmental Medicine laboratory**. I primarily work with **R / RStudio and SAS** for statistical analysis, and I also build AI-assisted tools that support research and everyday workflows. I care about clear analysis, thoughtful interpretation, and tools that make research easier. 📊
+
+### Personal stats
+
+<details open>
+  <summary><b>Highlights / Proficiencies</b></summary>
+
+<br>
+
+**Highlights**
+
+- ⭐ Earned a master's degree in Public Health, with research experience in occupational and environmental medicine.
+- ⭐ Studied cancer incidence among workers in an Occupational and Environmental Medicine laboratory.
+- ⭐ Work primarily with R / RStudio and SAS for statistical analysis.
+- ⭐ Built **SciJerry Literature Reviewer LITE**, an AI-assisted PDF literature review tool for paper analysis, methodology review, and STROBE-based summaries.
+- ⭐ Developing **DevSift**, a native macOS tool for understanding development-related storage and reviewing cleanup decisions.
+
+**Proficiencies**
+
+- 📊 **Statistics & Analysis:** R, RStudio, SAS
+- 🔬 **Research:** Public health, occupational and environmental health, cancer incidence among workers
+- 💻 **App Development:** AI-assisted development with Python, Flask, Swift, and SwiftUI
+- 🧠 **AI & Research Tools:** AI-assisted literature review, PDF text processing, research workflow tools
+- 🔧 **Collaboration & Tools:** Git, GitHub, macOS
+
+</details>
 
 <br>
 
 ### 🛠 Tools I use
 
 <p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&amp;logo=rstudioide&amp;logoColor=white" alt="RStudio">
+  <img src="https://img.shields.io/badge/SAS-0062CC?style=flat-square" alt="SAS">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-2563EB?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="SwiftUI">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
@@ -57,6 +83,23 @@ PDF에서 추출한 논문 텍스트를 바탕으로 AI 분석 결과를 한국�
 </details>
 
 <br>
+
+### 📌 GitHub activity
+
+<p>
+  <a href="https://gist.github.com/jxewonkim/3a07352ee738810e9bb77f97e1c93641"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./stats/hours-dark.svg">
+    <img src="./stats/hours-light.svg" width="49%" alt="My coding hours: morning, daytime, evening, and night in Korea Standard Time">
+  </picture></a>
+  <a href="https://gist.github.com/jxewonkim/582d81c1462ca1e5ba4a9bfda8c935e6"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./stats/github-dark.svg">
+    <img src="./stats/github-light.svg" width="49%" alt="Jaewon's public GitHub statistics: stars, commits, pull requests, issues, and repositories">
+  </picture></a>
+</p>
+
+<sub>Cards refresh daily. Commit counts cover my public, owned, non-fork repositories' default branches; coding hours use Korea Standard Time. PRs and issues cover my public authored activity. Stars and repository counts cover my public, owned, non-fork repositories.</sub>
+
+<br><br>
 
 ### 🌱 Contribution landscape
 
