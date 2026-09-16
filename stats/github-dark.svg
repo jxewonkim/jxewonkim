@@ -5,7 +5,7 @@
 <text x="36" y="84" fill="#e6edf3" font-family="monospace" font-size="14">Total Stars</text>
 <text x="438" y="84" text-anchor="end" fill="#e6edf3" font-family="monospace" font-size="14">1</text>
 <text x="36" y="112" fill="#e6edf3" font-family="monospace" font-size="14">Public Commits</text>
-<text x="438" y="112" text-anchor="end" fill="#e6edf3" font-family="monospace" font-size="14">32</text>
+<text x="438" y="112" text-anchor="end" fill="#e6edf3" font-family="monospace" font-size="14">34</text>
 <text x="36" y="140" fill="#e6edf3" font-family="monospace" font-size="14">Total PRs</text>
 <text x="438" y="140" text-anchor="end" fill="#e6edf3" font-family="monospace" font-size="14">27</text>
 <text x="36" y="168" fill="#e6edf3" font-family="monospace" font-size="14">Total Issues</text>
